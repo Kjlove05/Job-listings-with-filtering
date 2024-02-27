@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import headerImage from './assets/images/bg-header-desktop.svg'
-import ListingData from './components/listingData'
+import ListingData from './components/ListingData'
 
 function App() {
 
