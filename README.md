@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Kjlove05/Job-listings-with-filtering)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://job-listings-with-filtering-teal.vercel.app/)
 
 ## My process
 
