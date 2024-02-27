@@ -47,7 +47,7 @@ const filteredJobs = jobData.filter((item) => {
                     <li className="list-inline-item d-flex">
                       <div className="d-flex align-items-center col-6">
                         <div className="col-3">
-                          <img className="rounded-circle" src={item.logo} width="80%" alt="Logo"/>
+                          <img className="rounded-circle" src={item.logo} width="80%" alt={item.logo}/>
                         </div>
                         <div className="col-7">
                           <div className='d-flex mb-2'>
